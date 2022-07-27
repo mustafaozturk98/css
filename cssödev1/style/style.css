@@ -1,0 +1,65 @@
+body{
+    font-family: 'Ibarra Real Nova', serif;
+}
+
+
+.top-nav {
+    text-align: center;
+    position: fixed;
+    left: 0;
+    top: 0;
+    right: 0%;
+    overflow: auto;
+    background-color: rgb(14, 143, 194);
+    
+  }
+  .top-nav h1{
+    font-size: 40px;
+    color: black;
+    text-align: center;
+    text-decoration: solid;
+  }
+  .top-nav a {
+    float: left;
+    color: aliceblue;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration:solid;
+    font-size: 20px;
+  }
+  .content{
+    
+        padding-top: 150px;
+        height: 600px;
+       
+        font-size: 12px;
+     position: unset;
+     }
+    
+     .games{
+     text-align: center;
+     font-size: medium;
+    
+     }
+     .games img{
+        top:inherit;
+       width:200px;
+       height: 200px;
+        
+     }
+
+ 
+
+
+  footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(3, 3, 3);
+    color: white;
+    text-align: center;
+  }
+    .copyright p{
+    text-align: center;
+}
