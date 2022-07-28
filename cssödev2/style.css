@@ -1,0 +1,90 @@
+body{
+    display: block;
+    margin:8px;
+    background-color: #fff;
+   
+}
+
+
+img{
+   
+    width:351px ;
+    height:113px ;
+}
+.center{
+    margin: 0 20px 0 20px;
+}
+.form{
+    margin: 0 45px;
+    text-align: center;
+    width: auto;
+    height: auto;
+}
+.first-box{
+background-color: rgb(224, 220, 220);
+
+}
+.first-box p {
+    margin: 0px ;
+}
+
+.second-box{
+    display: flex;
+    width: 100%;;
+    float:left;
+    text-align: center;
+   
+   
+    
+}
+
+div .one{
+    
+    width: 40%;
+    height: 76px;
+    margin-right: 2px;
+    padding: 0px;
+    font-size: auto;
+    background-color: rgb(102, 255, 255);
+}   
+div.one a{
+    color: blue;
+}
+div.one p{
+    padding: 1px;
+}
+
+div.two{
+    height: 76px;
+    width: 15%;
+    margin-right: 2px;
+    padding: 0px;
+    font-size: auto;
+    
+    background-color: rgb(62, 250, 234);
+}
+div.two a{
+    color: blue;
+    padding:auto;
+}
+div.three{
+    height: 76px;
+    width: 45%;
+    margin: 0 0 0 0  ;
+  padding: 0px;
+  font-size: auto;
+    
+    background-color: rgb(9, 161, 172);
+}
+div.three p {
+    color: black;
+    font-size: 1;
+}
+div.three a{
+    color: blue;
+}
+
+.last p {
+    margin: 16px 0 16px 0 ;
+
+}
